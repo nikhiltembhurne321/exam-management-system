@@ -73,31 +73,5 @@ Check attendance
 
 Manage or create timetables
 
-📷 Screenshots:
-Add screenshots of:
 
-Login Page
 
-Dashboard
-
-Upload Question Paper
-
-Create Timetable
-
-🗃️ Folder Structure:
-perl
-Copy
-Edit
-exam-management-system/
-├── backend/               # Spring Boot backend
-│   └── src/
-├── frontend/              # HTML, CSS, JS files
-│   ├── index.html
-│   ├── dashboard.html
-│   ├── upload.html
-│   ├── attendance.html
-│   ├── result.html
-│   ├── timetable.html
-│   └── styles/
-│       └── style.css
-└── README.md
